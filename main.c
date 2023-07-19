@@ -1,0 +1,4 @@
+main() {
+	largest();
+	fact();
+}
