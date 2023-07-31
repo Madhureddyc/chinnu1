@@ -1,7 +1,7 @@
 #include<stdio.h>  
 fact()    
 {    
- i,fact=1,number;    
+ int i,fact=1,number;    
  printf("Enter a number: ");    
   scanf("%d",&number);    
     for(i=1;i<=number;i++){    
